@@ -8,6 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
     @IBOutlet var colorView: UIView!
     
     @IBOutlet var blueValue: UILabel!
